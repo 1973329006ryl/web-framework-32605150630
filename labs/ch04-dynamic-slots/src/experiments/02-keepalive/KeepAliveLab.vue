@@ -103,7 +103,7 @@ export default {
 .tabs button.on {
   background: var(--primary);
   border-color: var(--primary);
-  color: #ef0202;
+  color: #fff;
 }
 
 .muted {
